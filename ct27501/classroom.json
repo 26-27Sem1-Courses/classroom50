@@ -1,0 +1,21 @@
+{
+  "schema": "classroom50/classroom/v1",
+  "name": "CT27501",
+  "short_name": "ct27501",
+  "term": "",
+  "org": "26-27Sem1-Courses",
+  "team": {
+    "id": 18346110,
+    "slug": "classroom50-ct27501"
+  },
+  "teams": {
+    "instructor": {
+      "id": 18346111,
+      "slug": "classroom50-ct27501-instructor"
+    },
+    "ta": {
+      "id": 18346113,
+      "slug": "classroom50-ct27501-ta"
+    }
+  }
+}
